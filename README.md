@@ -6,8 +6,7 @@
 
 <!---
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6499663576115136"
-     crossorigin="anonymous"></script>
-
-nasimyrym/nasimyrym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+     crossorigin = "مجهول"> </script>
+nasimyrym / nasimyrym هو مستودع "خاص" لأنه يظهر "README.md" (هذا الملف) في ملفك الشخصي على GitHub.
 You can click the Preview link to take a look at your changes.
 --->
